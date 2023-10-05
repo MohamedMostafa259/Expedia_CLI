@@ -1,5 +1,5 @@
 # Expedia Console Program
-**A Simple Console Program Similar to The Expedia.com Platform**
+**A Simple Console Program Similar to The Expedia.com Site**
 
 ## Table of Contents
 - [Introduction](#introduction)
